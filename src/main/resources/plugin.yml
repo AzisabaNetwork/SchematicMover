@@ -1,0 +1,7 @@
+name: SchematicMover
+version: 1.0.0-SNAPSHOT
+main: net.azisaba.schematicmover.SchematicMover
+api-version: 1.13
+commands:
+  move-schematic:
+    permission: schematicmover.use
